@@ -1,0 +1,43 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+.header .navbar-app .navbar-toggle {
+	margin-left: 5px;
+	border-color: transparent;
+	padding: 6px 10px;
+}
+
+	.header .navbar-app .navbar-toggle .navbar-text {
+		margin: 0;
+	}
+
+	.header .navbar-app .navbar-toggle:hover,
+	.header .navbar-app .navbar-toggle:focus {
+		background: none;
+	}
+
+.app {
+	padding-top: 60px;
+}
+
+.phone-nav {
+	padding: 10px 0;
+	border-bottom: 1px solid #ecf0f1;
+}
+
+.user-avatar a {
+	line-height: 50px !important;
+    padding: 5px 15px !important;
+}
+
+	.user-avatar a img {
+		margin-right: 4px;
+		height: 40px;
+	}
+
+.footer {
+	font-size: 12px;
+	color: #6d6d6d;
+}
