@@ -16,7 +16,7 @@ There's a lot that could be fixed up or improved on this site and it was a fun
 little project.
 
 ## Assignment Specifications
-The `/doc` folder contains the [assignment specifications](https://github.com/South-Paw/Northwind/blob/tree/master/doc/assignment_readme.md)
+The `/doc` folder contains the [assignment specifications](https://github.com/South-Paw/Northwind/blob/master/doc/assignment_readme.md)
 and the `.sql` file for creating the database tables.
 
 ## Running it
